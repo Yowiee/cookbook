@@ -1,4 +1,4 @@
-baseURL = "https://whoenig.github.io/cooking/"
+baseURL = "https://whoenig.github.io/cooking"
 languageCode = "en-us"
 title = "My Cookbook"
 theme = "cookbook"
