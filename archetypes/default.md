@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: "Title for your recipe"
 author: {{ .Site.Params.front.defaultAuthor | default "User" }}
 recipe_image: {{ .Site.Params.front.defaultImage | default "images/defaultImage.png" }} #The image for your recipe

@@ -6,7 +6,7 @@ recipe_image: images/defaultImage.png #The image for your recipe
 # image_width: 512
 # image_height: 512
 date: 2023-05-12T22:05:03+02:00
-tags: ["cake", "dessert"] #tags for your recipe
+tags: ["lunch", "dinner", "soup"] #tags for your recipe
 # tagline: "A short tagline for your recipe"
 # servings: spring form (26 cm diameter)
 # prep_time: 15 #in minutes #can be BLANK
