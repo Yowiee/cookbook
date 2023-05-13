@@ -42,7 +42,7 @@ u('#searchButton').handle('click', function(e) { //use handle to automatically p
 })
 
 function executeSearch(searchQuery){
-    fetch("{{ .Site.BaseURL }}/index.json").then(r => r.json())
+    fetch("/cooking/index.json").then(r => r.json())
     .then(function(data) {    
         var pages = data;
         var fuse = new Fuse(pages, fuseOptions);
