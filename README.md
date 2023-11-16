@@ -20,7 +20,7 @@ You can install using hugo's recommended theme install method while in your hugo
 
 `git init`
 
-`git submodule add https://github.com/deranjer/hugo-cookbook.git themes/cookbook`
+`git submodule add https://github.com/Yowiee/cookbook.git themes/cookbook`
 
 OR
 
